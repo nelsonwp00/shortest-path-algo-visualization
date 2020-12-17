@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Shortest Path Algorithm Visualization 
 
 ## Introduction
@@ -16,4 +14,4 @@
 3. Speed of illustrarion can be adjusted via Normal or Fast selector
 4. Click `Clear Path` to reset the visualization
 5. Click `Clear All` to reset the entire board
->>>>>>> 8c28d5f0e81c186e1316b5449e3187e554ea0832
+
