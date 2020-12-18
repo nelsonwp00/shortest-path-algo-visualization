@@ -11,7 +11,7 @@
 
 1. Click the name of the algorithm to visualize its search routine
 2. Click the grid and drag the cursor to create obstacles.
-3. Speed of illustrarion can be adjusted via Normal or Fast selector
+3. Speed of illustrarion can be adjusted via `Normal or Fast` selector
 4. Click `Clear Path` to reset the visualization
 5. Click `Clear All` to reset the entire board
 
